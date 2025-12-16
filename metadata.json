@@ -1,0 +1,5 @@
+{
+  "name": "firecrawl-and-gemini-web-scraper",
+  "description": "An advanced tool to fetch, clean, and process web content from multiple URLs, analyze images, and chat with an AI. It uses Gemini to transform raw web data into clean, structured markdown for RAG applications.",
+  "requestFramePermissions": []
+}
